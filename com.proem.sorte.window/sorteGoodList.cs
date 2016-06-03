@@ -186,7 +186,7 @@ namespace sorteSystem.com.proem.sorte.window
                 label1.Text = "";
             }
             else {
-                goodTablePanel.Location = new Point(4, 85);
+                goodTablePanel.Location = new Point(4, 105);
                 label1.Visible = true;
                 textBox2.Visible = true;
                 textBox2.Text = ConstantUtil.remark;
@@ -503,6 +503,10 @@ namespace sorteSystem.com.proem.sorte.window
             }
             else if (e.KeyCode == Keys.Left)
             {
+                if (goodDataGridView.DataSource == null || goodDataGridView.RowCount == 0)
+                {
+                    return;
+                }
                 if (select_value - goodDataGridView.DisplayedRowCount(false) >= 0)
                 {
                     select_value -= goodDataGridView.DisplayedRowCount(false);
@@ -514,6 +518,10 @@ namespace sorteSystem.com.proem.sorte.window
             }
             else if (e.KeyCode == Keys.Right)
             {
+                if (goodDataGridView.DataSource == null || goodDataGridView.RowCount == 0)
+                {
+                    return;
+                }
                 if (select_value + goodDataGridView.DisplayedRowCount(false) < goodDataGridView.RowCount - 1)
                 {
                     select_value += goodDataGridView.DisplayedRowCount(false);
