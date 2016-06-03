@@ -174,6 +174,8 @@ namespace sorteSystem.com.proem.sorte.window
 
         public DataSet getGridData()
         {
+            sorteDao sortedao = new sorteDao();
+            ConstantUtil.sorteId = sortedao.getSorteId(ConstantUtil.ip);
             string street = getstreetName();
             ConstantUtil.street = street;
             string branchName = getBranchName(ConstantUtil.street);
