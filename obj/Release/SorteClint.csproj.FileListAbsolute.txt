@@ -1,0 +1,16 @@
+E:\c#\visualstudio_workspace\sortClient\SorteClint\bin\Release\SorteClint.exe.config
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Release\Branch.BranchLogin.resources
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Release\sorteSystem.com.proem.sorte.window.sorteGoodList.resources
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Release\sorteSystem.com.proem.sorte.window.sorteList.resources
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Release\SorteClint.com.proem.sorte.window.Times.resources
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Release\SorteClint.Properties.Resources.resources
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Release\SorteClint.csproj.GenerateResource.Cache
+E:\c#\visualstudio_workspace\sortClient\SorteClint\bin\Release\SorteClint.exe
+E:\c#\visualstudio_workspace\sortClient\SorteClint\bin\Release\SorteClint.pdb
+E:\c#\visualstudio_workspace\sortClient\SorteClint\bin\Release\Oracle.ManagedDataAccess.dll
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Release\SorteClint.exe
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Release\SorteClint.pdb
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Release\SorteClint.csprojResolveAssemblyReference.cache
+E:\c#\visualstudio_workspace\sortClient\SorteClint\bin\Release\log4net.dll
+E:\c#\visualstudio_workspace\sortClient\SorteClint\bin\Release\log4net.pdb
+E:\c#\visualstudio_workspace\sortClient\SorteClint\bin\Release\log4net.xml

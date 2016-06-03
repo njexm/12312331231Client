@@ -1,0 +1,62 @@
+c:\users\acer\documents\visual studio 2012\Projects\SorteClint\SorteClint\bin\Debug\SorteClint.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\SorteClint\SorteClint\obj\Debug\Branch.BranchLogin.resources
+c:\users\acer\documents\visual studio 2012\Projects\SorteClint\SorteClint\obj\Debug\sorteSystem.com.proem.sorte.window.sorteGoodList.resources
+c:\users\acer\documents\visual studio 2012\Projects\SorteClint\SorteClint\obj\Debug\sorteSystem.com.proem.sorte.window.sorteList.resources
+c:\users\acer\documents\visual studio 2012\Projects\SorteClint\SorteClint\obj\Debug\SorteClint.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\SorteClint\SorteClint\obj\Debug\SorteClint.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\SorteClint\SorteClint\bin\Debug\SorteClint.exe
+c:\users\acer\documents\visual studio 2012\Projects\SorteClint\SorteClint\bin\Debug\SorteClint.pdb
+c:\users\acer\documents\visual studio 2012\Projects\SorteClint\SorteClint\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\acer\documents\visual studio 2012\Projects\SorteClint\SorteClint\obj\Debug\SorteClint.exe
+c:\users\acer\documents\visual studio 2012\Projects\SorteClint\SorteClint\obj\Debug\SorteClint.pdb
+c:\users\acer\documents\visual studio 2012\Projects\SorteClint\SorteClint\obj\Debug\SorteClint.csprojResolveAssemblyReference.cache
+D:\工作\SorteClint\SorteClint\bin\Debug\SorteClint.exe.config
+D:\工作\SorteClint\SorteClint\obj\Debug\SorteClint.exe
+D:\工作\SorteClint\SorteClint\obj\Debug\SorteClint.pdb
+D:\工作\SorteClint\SorteClint\bin\Debug\SorteClint.exe
+D:\工作\SorteClint\SorteClint\bin\Debug\SorteClint.pdb
+D:\工作\SorteClint\SorteClint\obj\Debug\SorteClint.csprojResolveAssemblyReference.cache
+D:\工作\SorteClint\SorteClint\obj\Debug\Branch.BranchLogin.resources
+D:\工作\SorteClint\SorteClint\obj\Debug\sorteSystem.com.proem.sorte.window.sorteGoodList.resources
+D:\工作\SorteClint\SorteClint\obj\Debug\sorteSystem.com.proem.sorte.window.sorteList.resources
+D:\工作\SorteClint\SorteClint\obj\Debug\SorteClint.Properties.Resources.resources
+D:\工作\SorteClint\SorteClint\obj\Debug\SorteClint.csproj.GenerateResource.Cache
+D:\visual Studio\vsWorkSpace\SorteClint\SorteClint\bin\Debug\SorteClint.exe.config
+D:\visual Studio\vsWorkSpace\SorteClint\SorteClint\obj\Debug\SorteClint.exe
+D:\visual Studio\vsWorkSpace\SorteClint\SorteClint\obj\Debug\SorteClint.pdb
+D:\visual Studio\vsWorkSpace\SorteClint\SorteClint\bin\Debug\SorteClint.exe
+D:\visual Studio\vsWorkSpace\SorteClint\SorteClint\bin\Debug\SorteClint.pdb
+D:\visual Studio\vsWorkSpace\SorteClint\SorteClint\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\visual Studio\vsWorkSpace\SorteClint\SorteClint\obj\Debug\SorteClint.csprojResolveAssemblyReference.cache
+D:\visual Studio\vsWorkSpace\SorteClint\SorteClint\obj\Debug\Branch.BranchLogin.resources
+D:\visual Studio\vsWorkSpace\SorteClint\SorteClint\obj\Debug\sorteSystem.com.proem.sorte.window.sorteGoodList.resources
+D:\visual Studio\vsWorkSpace\SorteClint\SorteClint\obj\Debug\sorteSystem.com.proem.sorte.window.sorteList.resources
+D:\visual Studio\vsWorkSpace\SorteClint\SorteClint\obj\Debug\SorteClint.Properties.Resources.resources
+D:\visual Studio\vsWorkSpace\SorteClint\SorteClint\obj\Debug\SorteClint.csproj.GenerateResource.Cache
+D:\visual Studio\vsWorkSpace\sorteClintSVN\SorteClint\bin\Debug\SorteClint.exe.config
+D:\visual Studio\vsWorkSpace\sorteClintSVN\SorteClint\obj\Debug\SorteClint.exe
+D:\visual Studio\vsWorkSpace\sorteClintSVN\SorteClint\obj\Debug\SorteClint.pdb
+D:\visual Studio\vsWorkSpace\sorteClintSVN\SorteClint\bin\Debug\SorteClint.exe
+D:\visual Studio\vsWorkSpace\sorteClintSVN\SorteClint\bin\Debug\SorteClint.pdb
+D:\visual Studio\vsWorkSpace\sorteClintSVN\SorteClint\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\visual Studio\vsWorkSpace\sorteClintSVN\SorteClint\obj\Debug\SorteClint.csprojResolveAssemblyReference.cache
+D:\visual Studio\vsWorkSpace\sorteClintSVN\SorteClint\obj\Debug\Branch.BranchLogin.resources
+D:\visual Studio\vsWorkSpace\sorteClintSVN\SorteClint\obj\Debug\sorteSystem.com.proem.sorte.window.sorteGoodList.resources
+D:\visual Studio\vsWorkSpace\sorteClintSVN\SorteClint\obj\Debug\sorteSystem.com.proem.sorte.window.sorteList.resources
+D:\visual Studio\vsWorkSpace\sorteClintSVN\SorteClint\obj\Debug\SorteClint.Properties.Resources.resources
+D:\visual Studio\vsWorkSpace\sorteClintSVN\SorteClint\obj\Debug\SorteClint.csproj.GenerateResource.Cache
+E:\vs_0123_1043\SorteClint\bin\Debug\SorteClint.exe.config
+E:\vs_0123_1043\SorteClint\obj\Debug\SorteClint.exe
+E:\vs_0123_1043\SorteClint\obj\Debug\SorteClint.pdb
+E:\c#\visualstudio_workspace\sortClient\SorteClint\bin\Debug\SorteClint.exe.config
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Debug\SorteClint.exe
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Debug\SorteClint.pdb
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Debug\SorteClint.csprojResolveAssemblyReference.cache
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Debug\Branch.BranchLogin.resources
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Debug\sorteSystem.com.proem.sorte.window.sorteGoodList.resources
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Debug\sorteSystem.com.proem.sorte.window.sorteList.resources
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Debug\SorteClint.Properties.Resources.resources
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Debug\SorteClint.csproj.GenerateResource.Cache
+E:\c#\visualstudio_workspace\sortClient\SorteClint\bin\Debug\SorteClint.exe
+E:\c#\visualstudio_workspace\sortClient\SorteClint\bin\Debug\SorteClint.pdb
+E:\c#\visualstudio_workspace\sortClient\SorteClint\obj\Debug\SorteClint.com.proem.sorte.window.Times.resources
